@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 저는 구나영이에요
+
 <!--
 **ooNa0/ooNa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
