@@ -1,4 +1,4 @@
-✨ _special_ I LOVE ME! ✨
+✨ I LOVE ME! ✨
 
 - 🔭 I’m currently working on visualization
 - 🌱 I’m currently learning NLP
