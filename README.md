@@ -1,7 +1,11 @@
 ✨ I LOVE ME! ✨
 
-| 🔭 I’m currently working on visualization  | 🌱 I’m currently learning NLP  | 😄 interesting Android|
-| --- | --- |--- |
+| 💖 | Descriptions |
+| --- | --- |
+| 🔭 | I’m currently working on visualization |
+|🌱 | I’m currently learning NLP |
+| 😄 |Interesting Android|
+
 
 
                                                         
