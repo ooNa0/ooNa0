@@ -1,8 +1,8 @@
-✨ _special_ ✨
+✨ _special_ I LOVE ME! ✨
 
 - 🔭 I’m currently working on visualization
 - 🌱 I’m currently learning NLP
-- 😄 interesting Android, problem solving, Vue
+- 😄 interesting Android, problem solving
 
 <!--
 **ooNa0/ooNa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
