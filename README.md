@@ -1,10 +1,10 @@
 <div align="center">
 
-### ✨ I LOVE ME! ✨
+### ✨ I LOVE ✨
 
-✨ I LOVE ME! ✨
+✨ I LOVE! ✨
 
-# ✨ I LOVE ME! ✨
+# ✨ I LOVE ! ✨
 
 
 | 💖 | Descriptions |
@@ -13,12 +13,12 @@
 |🌱 | I’m currently learning NLP |
 | 😄 |Interesting Android|
 # 
-### ✨ I LOVE ME! ✨
+### ✨ I LOVE ! ✨
 
 
-✨ I LOVE ME! ✨
+✨ I LOVE ! ✨
                                                         
-### ✨ I LOVE ME! ✨
+### ✨ I LOVE ! ✨
 
 </div>
 
