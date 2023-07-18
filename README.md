@@ -1,24 +1,16 @@
 <div align="center">
 
-### ✨ I LOVE ✨
+### ✨ HI, my name is Koo NaYoung ✨
 
-✨ I LOVE! ✨
-
-# ✨ I LOVE ! ✨
 
 
 | 💖 | Descriptions |
 | --- | --- |
 | 🔭 | I’m currently working on visualization |
 |🌱 | I’m currently learning NLP |
-| 😄 |Interesting Android|
+| 😄 |Interesting Android/Flutter/NLP|
 # 
-### ✨ I LOVE ! ✨
 
-
-✨ I LOVE ! ✨
-                                                        
-### ✨ I LOVE ! ✨
 
 </div>
 
