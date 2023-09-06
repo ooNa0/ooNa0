@@ -6,9 +6,9 @@
 
 | 💖 | Descriptions |
 | --- | --- |
-| 🔭 | I’m currently working on visualization |
-|🌱 | I’m currently learning NLP |
-| 😄 |Interesting Android/Flutter/NLP|
+| 🔭 | I’m currently working ? |
+|🌱 | I’m currently learning ? |
+| 😄 |Interesting ?|
 # 
 
 
