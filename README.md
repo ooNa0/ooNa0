@@ -3,7 +3,7 @@
 ### ✨ HI, my name is Koo NaYoung ✨
 
 
-
+<!--
 | 💖 | Descriptions |
 | --- | --- |
 | 🔭 | I’m currently working ? |
@@ -11,6 +11,7 @@
 | 😄 |Interesting ?|
 # 
 
+--!>
 
 </div>
 
