@@ -2,6 +2,7 @@
 
 ### ✨ HI, my name is Koo NaYoung ✨
 
+Nayoung Koo, Jungs oo Park, Hyein Hong, Sangbong Yoo, Yun Jang. (2022). Sentiment Visualization for YouTube Comments. 한국정보과학회 학술발표논문집, 1864-1866.
 
 <!--
 | 💖 | Descriptions |
