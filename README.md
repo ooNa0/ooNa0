@@ -7,8 +7,7 @@
 - Exchange Student - Centro Universitario CESINE Design & Business/Marketing
 - En# 21st
 - [Data Visualization](https://sites.google.com/view/vis-sejong/home) 학부생 인턴
-- (전) 하이퍼라운지 데이터팀
-- FLY AI Challengers 6기
+
 
 
 ### 🔭 Awards
